@@ -14,7 +14,7 @@ Contents:
    :maxdepth: 2
 
    picture
-   help
+   sample
 
 
 Indices and tables
