@@ -42,7 +42,9 @@ templates_path = ['ntemplates']
 source_suffix = '.rst'
 
 # The encoding of source files.
-#source_encoding = 'utf-8-sig'
+source_encoding = 'windows-1251'
+#windows-1251 utf-8-sig
+
 
 # The master toctree document.
 master_doc = 'index'
@@ -111,6 +113,8 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 html_theme = 'alabaster'
+#html_theme = 'classic' 
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
