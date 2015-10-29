@@ -19,6 +19,8 @@ Lists and Quote-like blocks
 1. This is a numbered list.
 2. It has two items too.
 
+Some text....
+
 #. This is a numbered list.
 #. It has two items too.
 
@@ -26,7 +28,6 @@ Definition lists (ref) are created as follows:
 
 term (up to a line of text)
    Definition of the term, which must be indented
-
    and can even consist of multiple paragraphs
 
 next term
@@ -40,4 +41,11 @@ Line blocks (ref) are a way of preserving line breaks:
 | broken exactly like in
 | the source file.
 
+This is a normal text paragraph. The next paragraph is a code sample::
 
+   It is not processed in any way, except
+   that the indentation is removed.
+
+   It can span multiple lines.
+
+This is a normal text paragraph again.
