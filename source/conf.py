@@ -113,8 +113,8 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
-#html_theme = 'classic'
+html_theme = 'default'
+#html_theme = 'classic' default alabaster
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
