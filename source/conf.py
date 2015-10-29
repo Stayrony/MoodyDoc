@@ -42,8 +42,8 @@ templates_path = ['ntemplates']
 source_suffix = '.rst'
 
 # The encoding of source files.
-#source_encoding = 'windows-1251'
-source_encoding = 'utf-8-sig'
+source_encoding = 'windows-1251'
+#source_encoding = 'utf-8-sig'
 #windows-1251 utf-8-sig
 
 
