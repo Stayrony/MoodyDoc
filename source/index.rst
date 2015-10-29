@@ -15,6 +15,7 @@ Contents:
 
    picture
    sample
+   commit
 
 
 Indices and tables
